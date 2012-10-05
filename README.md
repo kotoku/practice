@@ -1,8 +1,8 @@
-practice : GitHubの使い方の練習
+practice:
 ======================
-GitHubの練習です。  
+Practice for GitHub  
  
-ライセンス
+License:
 ----------
 Copyright &copy; 2012 Tetsuo KOTOKU
 Licensed under the [GPL license][GPL].
